@@ -1,0 +1,15 @@
+.statistics-title {
+  margin-top: 15;
+  margin-bottom: 35px;
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.statistics-item {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.statistics-item:not(:last-child) {
+  margin-bottom: 20px;
+}

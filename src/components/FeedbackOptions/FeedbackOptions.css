@@ -1,0 +1,19 @@
+.feedback-btn-list {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.feedback-btn-list-item:not(:last-child) {
+  margin-right: 20px;
+}
+
+.feedback-btn {
+  display: inline-block;
+  min-width: 60px;
+  padding: 6px 9px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: silver;
+}
